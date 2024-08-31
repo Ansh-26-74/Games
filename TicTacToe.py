@@ -1,6 +1,5 @@
-#This is the 2nd Branch :)
-
 import random
+import computer
 
 def MakeGrids(space):
     print("     |     |     ")
